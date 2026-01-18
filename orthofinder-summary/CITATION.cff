@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+title: "OrthoFinder Orthogroup Summary Tool"
+message: "If you use this software, please cite it as below."
+type: software
+
+authors:
+  - family-names: Ichikawa
+    given-names: Ryota
+
+year: 2026
+
+license: MIT
+
+repository-code: "https://github.com/ryouta991033/orthofinder-summary"
+
+keywords:
+  - orthofinder
+  - orthogroup
+  - comparative genomics
+  - bioinformatics
+  - r
+
+references:
+  - type: article
+    title: "OrthoFinder: phylogenetic orthology inference for comparative genomics"
+    authors:
+      - family-names: Emms
+        given-names: David M.
+      - family-names: Kelly
+        given-names: Steven
+    journal: Genome Biology
+    year: 2019
+    doi: 10.1186/s13059-019-1832-y
