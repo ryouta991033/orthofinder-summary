@@ -38,7 +38,7 @@ Example commands are provided below.
 
 
 #Xenopus laevis
-```bash
+
 wget https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/017/654/675/GCF_017654675.1_Xenopus_laevis_v10.1/GCF_017654675.1_Xenopus_laevis_v10.1_genomic.fna.gz
 wget https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/017/654/675/GCF_017654675.1_Xenopus_laevis_v10.1/GCF_017654675.1_Xenopus_laevis_v10.1_genomic.gff.gz
  
