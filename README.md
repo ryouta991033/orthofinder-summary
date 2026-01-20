@@ -35,7 +35,7 @@ This repository does not include test data due to file size and license consider
 Publicly available FASTA and gff files can be downloaded from Ensembl or NCBI.
 Example commands are provided below.
 
-#Xenopus laevis
+# Xenopus laevis
 ```
 wget https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/017/654/675/GCF_017654675.1_Xenopus_laevis_v10.1/GCF_017654675.1_Xenopus_laevis_v10.1_genomic.fna.gz
 wget https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/017/654/675/GCF_017654675.1_Xenopus_laevis_v10.1/GCF_017654675.1_Xenopus_laevis_v10.1_genomic.gff.gz
